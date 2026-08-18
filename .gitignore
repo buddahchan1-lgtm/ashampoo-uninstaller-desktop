@@ -1,8 +1,0 @@
-.env
-dist/
-*.tgz
-.cache/
-coverage/
-.env.local
-*.log
-yarn-error.log*
