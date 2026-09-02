@@ -1,0 +1,14 @@
+# Configuration for git attributes
+# Exclude build artifacts
+# Do not edit manually
+*.ico binary
+
+public/**/*.html linguist-vendored
+
+*.tsx linguist-detectable
+*.map linguist-generated
+*.htm linguist-vendored
+
+*.min.css linguist-generated
+node_modules/* linguist-vendored
+# eof 13a6618e
